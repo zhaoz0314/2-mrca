@@ -1,8 +1,13 @@
-The 2mrca_test.ipynb file is used for scratch work and to record related notes.
-
-The 2mrca file.ipynb contains a simulation that generates a histogram for the least coalescent times.  The time scale should be the one used for the parameters.
-
-The theory_scratch.nb contains current confusions.  
-
-Something possibly related to the theory:
-https://pubmed.ncbi.nlm.nih.gov/16048782/
+ - 2mrca-basics.ipynb
+	 - A simulation with many trials and its prediction are plotted together.
+ - 2mrca-para_r.ipynb
+	 - reducing the number of parameters by 1
+ - 2mrca-para_m.ipynb
+	 - generating a histogram list and exporting to txt;
+	 - verifying if the fitted parameters from mathematic are nice
+ - 2mrca-para_m.nb
+	 - fitting the parameters to reduce error
+ - 2mrca-para_m.nb.pdf
+	 - the printed notebook
+ - 2mrca.pdf
+	 - the writeup
