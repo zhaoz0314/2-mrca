@@ -3,7 +3,7 @@
  - 2mrca-para_r.ipynb
 	 - reducing the number of parameters by 1
  - 2mrca-para_m.ipynb
-	 - generating a histogram list and exporting to txt;
+	 - generating a histogram list and exporting to txt
 	 - verifying if the fitted parameters from mathematic are nice
  - 2mrca-para_m.nb
 	 - fitting the parameters to reduce error
