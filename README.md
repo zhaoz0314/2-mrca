@@ -2,12 +2,14 @@
 	 - A simulation with many trials and its prediction are plotted together.
  - 2mrca-para_r.ipynb
 	 - reducing the number of parameters by 1
- - 2mrca-para_m.ipynb
-	 - generating a histogram list and exporting to txt
-	 - verifying if the fitted parameters from mathematic are nice
- - 2mrca-para_m.nb
-	 - fitting the parameters to reduce error
- - 2mrca-para_m.nb.pdf
-	 - the printed notebook
+ - nil2histograms.py & plotting4.nb (& plotting4.nb.pdf)
+	 - run the simulation with different parameters each with a large trial number
+	 - compare time distributions with the same rho
+	 - compare time distributions with predictions
+	 - consider errors
+ - 2mrca-length-distri.py & lengths.nb (& lengths.nb.pdf)
+	 - runthe simulation and record both times and lengths of the coalescence
+	 - plot the length distributions
+	 - plot lengths with respect to times
  - 2mrca.pdf
 	 - the writeup
